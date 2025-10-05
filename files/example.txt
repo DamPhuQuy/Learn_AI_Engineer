@@ -1,0 +1,14 @@
+Hello, this is a sample text file for testing purposes.
+
+Name: John Doe
+Age: 28
+Email: john.doe@example.com
+
+Favorite Programming Languages:
+- Python
+- Java
+- C++
+
+Quote of the day:
+"Code is like humor. When you have to explain it, it’s bad." — Cory House
+This text has to be appended at the end

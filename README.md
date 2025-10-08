@@ -1,17 +1,9 @@
-# Learn Python Real Quick
+# Learn AI Engineer
 
 ## Overview
 
-- This repository documents my personal journey of learning **Python** — from fundamentals to object-oriented programming and beyond.
+- This repository documents my personal journey of learning **Python** and **AI** — from fundamentals to object-oriented programming and beyond.
 - It serves as both a **learning log** and a **practice space** to apply new concepts through examples, exercises, and small projects.
-
----
-
-## Purpose
-
-- To learn and master **Python programming** efficiently through self-study.
-- To build a solid foundation for **backend development**, **automation**, and **AI applications**.
-- To track progress and maintain consistent learning habits.
 
 ---
 
@@ -40,6 +32,9 @@ This learning journey is guided primarily by the following excellent resources:
 - **[Geeksforgeeks](https://www.geeksforgeeks.org/python/python-programming-language-tutorial/)**
 
   > GeeksforGeeks provides comprehensive resources on Python, covering its features, applications, and core concepts.
+
+- **[AI VIET NAM](https://aivietnam.edu.vn/)**
+  > AI Viet Nam provides complete course for learning DS/AI, covering from basic to advanced of DS/AI.
 
 Additional references will be added as I progress.
 

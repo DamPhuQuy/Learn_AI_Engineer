@@ -87,8 +87,8 @@ if __name__ == "__main__":
     # binary cross entropy
 
     plt.subplot(2, 3, 6)
-    plt.plot(x_vals, loss_y1, label="y=1")
-    plt.plot(x_vals, loss_y0, label="y=0")
+    plt.plot(y_hat, loss_y1, label="y=1")
+    plt.plot(y_hat, loss_y0, label="y=0")
     plt.title("binary cross entropy")
     plt.xlabel("y-hat")
     plt.ylabel("Loss")
